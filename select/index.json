@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Sora to Utsuro",
+  "base_artist": "Sasanomaly",
+  "createdAt": "2026-03-24T11:09:01.589866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "sora to utsuro",
+      "artist": "ササノマリイ",
+      "has_synced": true,
+      "path": "select/01_sora_to_utsuro_ササノマリイ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "sora to utsuro",
+      "artist": "Sasanomaly",
+      "has_synced": true,
+      "path": "select/02_sora_to_utsuro_Sasanomaly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sora to Utsuro (From \"The Case Study of Vanitas\") (English Cover)",
+      "artist": "re:TYE",
+      "has_synced": true,
+      "path": "select/03_Sora_to_Utsuro_(From__The_Case_Study_of_Vanitas_)_(English_Cover)_re_TYE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空と虚 - sora to utsuro",
+      "artist": "Sasanomaly",
+      "has_synced": true,
+      "path": "select/04_空と虚_-_sora_to_utsuro_Sasanomaly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sora to utsuro",
+      "artist": "sasanomaly",
+      "has_synced": false,
+      "path": "select/pl_01_sora_to_utsuro_sasanomaly.txt"
+    }
+  ]
+}
